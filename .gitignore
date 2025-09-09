@@ -21,7 +21,10 @@ env/
 
 venv/
 
+new_numpy_env/
+old_numpy_env/
 
+venv_explained/
 
 
 # VS Code settings
